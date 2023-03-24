@@ -72,3 +72,10 @@ void display() {      // Procedure Display
     cout << endl;
 }
 
+int main()
+{
+    input();          // memanggil input
+    insertionsort;    // memanggil insertionsoert
+    display;          // memanggil display
+}
+
